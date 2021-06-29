@@ -1,11 +1,6 @@
 # Android-Generic Project : Getting started
 
-**On this page:**/\*&lt;!\[CDATA\[\*/  
-div.rbtoc1624980164178 {padding: 0px;}  
-div.rbtoc1624980164178 ul {list-style: disc;margin-left: 0px;}  
-div.rbtoc1624980164178 li {margin-left: 0px;padding-left: 0px;}  
-  
-/\*\]\]&gt;\*/
+**On this page:**
 
 * [1. Prerequisites](android-generic-project-getting-started.md#Gettingstarted-1.Prerequisites)
 * [2. How to include Android-Generic Project into your Project:](android-generic-project-getting-started.md#Gettingstarted-2.HowtoincludeAndroid-GenericProjectintoyourProject:)
