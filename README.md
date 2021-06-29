@@ -1,4 +1,4 @@
-# index
+# Project Info
 
 ![](https://github.com/android-generic/artwork/raw/master/brand/Android-Generic_Logo__2_transparent.png)
 
@@ -15,6 +15,9 @@ The menu system uses [easybashgui](https://sites.google.com/site/easybashgui/) f
 Telegram: [PC/x86/x86\_64](https://t.me/androidgenericpc)
 
 #### Resources:
+
+AG Main Repo:  
+[vendor\_ag](https://github.com/android-generic/vendor_ag)
 
 AG Artwork:  
 [Android-Generic Artwork](https://github.com/android-generic/artwork)
