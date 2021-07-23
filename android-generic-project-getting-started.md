@@ -63,7 +63,7 @@ sudo apt-get install gcc-10 g++-10
 Including AGP into your AOSP based project is as simple as cloning it into a vendor folder. 
 
 ```text
-git clone https://github.com/android-generic/vendor_ag vendor/ag 
+git clone https://github.com/vendor_ag vendor/ag 
 ```
 
 ## **3. Setting Up** <a id="Gettingstarted-3.SettingUp"></a>
