@@ -75,10 +75,12 @@ sudo apt-get install gcc-10 g++-10
 
 ## **2. How to include Android-Generic Project into your Project:** <a href="gettingstarted-2.howtoincludeandroid-genericprojectintoyourproject" id="gettingstarted-2.howtoincludeandroid-genericprojectintoyourproject"></a>
 
+(**PLEASE NOTE:** The source for AG v2023 has been pushed but the documentation for it has not. This documentation is only applicable to the archived version of the project.)
+
 Including AGP into your AOSP based project is as simple as cloning it into a vendor folder.&#x20;
 
 ```
-git clone https://github.com/android-generic/vendor_ag vendor/ag 
+git clone https://github.com/android-generic/vendor_ag-archive vendor/ag 
 ```
 
 ## **3. Setting Up** <a href="gettingstarted-3.settingup" id="gettingstarted-3.settingup"></a>
